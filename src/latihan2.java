@@ -4,7 +4,7 @@ public class latihan2 {
     public static void main(String[] args) {
         LinkedList<String> saya = new LinkedList<>();
 
-        // karakter nama "REVI PUTRA HERNEL"
+        // karakter nama 
         saya.add("N");
         saya.add("A");
         saya.add("D");
